@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    color:#323f4b ;
+}
+.foodorder{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+   background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.cards{
+    width: 100%;
+    background-color: #f6c56e;
+    border: 2px solid #f6c56e;
+    border-radius: 20px 20px 0px 0px;
+    padding: 20px;
+}
+.button{
+    background-color: #ffffff;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    color:#323f4b;
+    padding-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+h2{
+    font-family: 'Bree Serif', serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
