@@ -1,0 +1,10 @@
+
+a:hover{
+    background-color: blue;
+    color: white !important;
+    border-radius: 10px;
+}
+img{
+    height: 500px;
+    width: 800px;
+}
