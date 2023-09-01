@@ -1,0 +1,24 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid{
+    background-color: skyblue !important;
+}
+.subcontainer{
+    background-color: #fff;
+}
+
+.subhead{
+    color: #323f4b;
+    margin-left: 20px;
+}
+p{
+    color: #707070 !important;
+}
+h2{
+    color: #323f4b !important;
+}
+.img-fluid{
+    height: 100px !important;
+}
