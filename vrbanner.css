@@ -1,0 +1,12 @@
+.bg-container{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png);
+    background-size: cover;
+    height: 100vh;   
+}
+.head{
+    color: #ffff;
+}
+h1{
+    font-size: 60px !important;
+    margin-left: 20px;
+}
