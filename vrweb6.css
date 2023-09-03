@@ -1,0 +1,21 @@
+.cards1{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png);
+    background-size: cover;
+    height: 100vh;
+    width: 500px;
+}
+.cards2{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png);
+    height: 100vh;
+    background-size: cover;
+    width: 500px;
+}
+.head{
+    color:#ffff;
+}
+.para{
+    color: #ffff;
+}
+.bttn{
+    background-color: #1754a1 !important;
+}
