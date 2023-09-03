@@ -1,0 +1,20 @@
+h2{
+   color:blue;
+}
+h3{
+    color: skyblue;
+    font-family: "Roboto";
+}
+.content{
+    background-color: aquamarine;
+    height: 250px;
+    width: 500px;
+    padding: 20px 20px;
+}
+.subhead{
+    background-color: black;
+    color: #fff;
+    width: 500px;
+    margin-top: 10px;
+    height: 50px;
+}

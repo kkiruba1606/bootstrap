@@ -1,0 +1,13 @@
+.p1{
+    background-color: antiquewhite;
+    height: 60px;
+    width: 250px;
+    padding: 5px;
+}
+.p2{
+    background-color: black;
+    color: #fff;
+    height: 60px;
+    width: 250px;
+    padding: 5px;
+}
