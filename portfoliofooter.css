@@ -1,0 +1,21 @@
+.circle{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+}
+.content{
+    background-color: #001c32;
+    height: 100vh;
+    width: 100%;
+}
+.heading{
+    color:#cced00 ;
+}
+.para{
+    color:#5a7184;  
+}
+.copyright{
+    background-color:#0d2436 ;
+    color:#5a7184; 
+    text-align: center;
+}
