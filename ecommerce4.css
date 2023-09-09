@@ -1,0 +1,14 @@
+.background{
+  
+    background: linear-gradient(288deg, rgba(131,58,180,1) 0%, rgba(255,47,17,1) 50%, rgba(252,176,69,1) 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+.head{
+    color: #fff;
+}
